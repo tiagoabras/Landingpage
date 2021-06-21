@@ -1,7 +1,7 @@
 body{
 	text-align: center;
 	font-family: Nunito Sans;
-	background-image: url("imagens/Background-05.jpg");
+	background-image: url(imagens/background-05.jpg);
 	background-size: cover;
 }
 
